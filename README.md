@@ -1,1 +1,1 @@
-# ra2-ini ares3.0备份
+# ra2-ini 要求ares3.0 个人备份
